@@ -1,3 +1,14 @@
+route-views.amsix
+route-views.chicago
+route-views.chile
+route-views.eqix
+route-views.flix
+route-views.fortaleza
+route-views.gixa
+route-views.gorex
+route-views.isc
+route-views.jinx
+route-views.kixp
 route-views.linx
 route-views.napafrica
 route-views.nwax
